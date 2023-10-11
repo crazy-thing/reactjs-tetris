@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/capstone-tetris/static/css/main.783827bf.css",
-    "main.js": "/capstone-tetris/static/js/main.f7706d06.js",
-    "static/js/787.0ef42b96.chunk.js": "/capstone-tetris/static/js/787.0ef42b96.chunk.js",
-    "static/media/background1.png": "/capstone-tetris/static/media/background1.3dbe249e520c3a0fee21.png",
-    "index.html": "/capstone-tetris/index.html",
-    "main.783827bf.css.map": "/capstone-tetris/static/css/main.783827bf.css.map",
-    "main.f7706d06.js.map": "/capstone-tetris/static/js/main.f7706d06.js.map",
-    "787.0ef42b96.chunk.js.map": "/capstone-tetris/static/js/787.0ef42b96.chunk.js.map"
+    "main.css": "/tetris-capstone/static/css/main.7cfd32bd.css",
+    "main.js": "/tetris-capstone/static/js/main.d500b441.js",
+    "static/js/787.0ef42b96.chunk.js": "/tetris-capstone/static/js/787.0ef42b96.chunk.js",
+    "static/media/background1.png": "/tetris-capstone/static/media/background1.3dbe249e520c3a0fee21.png",
+    "index.html": "/tetris-capstone/index.html",
+    "main.7cfd32bd.css.map": "/tetris-capstone/static/css/main.7cfd32bd.css.map",
+    "main.d500b441.js.map": "/tetris-capstone/static/js/main.d500b441.js.map",
+    "787.0ef42b96.chunk.js.map": "/tetris-capstone/static/js/787.0ef42b96.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.783827bf.css",
-    "static/js/main.f7706d06.js"
+    "static/css/main.7cfd32bd.css",
+    "static/js/main.d500b441.js"
   ]
 }
