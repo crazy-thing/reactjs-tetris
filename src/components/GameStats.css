@@ -1,0 +1,39 @@
+.GameStats {
+    position: absolute;
+    left: 64%;
+    top: 70%;
+    width: 22vw;
+    list-style-type: none;
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.GameStats__left {
+    right: 0;
+    top: 22vh;
+    text-align: left;
+}
+
+.GameStats__right {
+    right: 0;
+    bottom: 0;
+    text-align: left;
+}
+
+.GameStats .value {
+    font-size: 2vw;
+    margin-bottom: 0.4em;
+    color: rgba(255, 255, 255, 1);
+}
+
+
+@media only screen and (max-width: 850px ) {
+    .GameStats {
+        left: 90%;
+        top: 65%;
+    }
+
+    .GameStats .value {
+        font-size: 4vw;
+    }
+  }
+  
