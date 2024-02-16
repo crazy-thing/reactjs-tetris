@@ -1,6 +1,6 @@
 # React Tetris
 
-[![Play Here](https://img.shields.io/badge/Play-Here-A62045?style=for-the-badge)](https://crazy-thing.github.io/tetris-capstone/) [![License](https://img.shields.io/badge/License-MIT-DB50DF?style=for-the-badge)](https://github.com/crazy-thing/tetris-capstone/blob/main/LICENSE) [![Release](https://img.shields.io/badge/Release-v.1.0.0-A126FA?style=for-the-badge)](https://github.com/crazy-thing/tetris-capstone/releases/tag/v1.0.0)
+[![Play Here](https://img.shields.io/badge/Play-Here-A62045?style=for-the-badge)](https://crazy-thing.github.io/reactjs-tetris/) [![License](https://img.shields.io/badge/License-MIT-DB50DF?style=for-the-badge)](https://github.com/crazy-thing/tetris-capstone/blob/main/LICENSE) [![Release](https://img.shields.io/badge/Release-v.1.0.0-A126FA?style=for-the-badge)](https://github.com/crazy-thing/tetris-capstone/releases/tag/v1.0.0)
 
 # About
 
