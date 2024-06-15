@@ -13,10 +13,7 @@ This Tetris game was my first full web development project for my senior year of
 - Holding
 - Score history
 
-# Future Improvements
-I've learned a lot since creating this project and the main thing I would do is clean up and refactor the code.
-
-#### Additions
+#### Future Ideas
 - Animations
 - Better Menu
 - Settings
