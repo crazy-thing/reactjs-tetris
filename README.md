@@ -4,7 +4,7 @@
 
 # About
 
-This Tetris game was my first web development project for my senior year of high school using React. I'm finished with this for now, but have lots of things I would like to improve on in the future.
+This Tetris game was my first full web development project for my senior year of high school using React. Creating following this tutorial: https://www.youtube.com/watch?v=yCEIgEOZ36g
 
 # Features
 - Base Tetris features such as rotating, placing, and clearing tetrominoes
