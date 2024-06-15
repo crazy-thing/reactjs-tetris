@@ -6,6 +6,18 @@
 
 This Tetris game was my first full web development project for my senior year of high school using React. Creating following this tutorial: https://www.youtube.com/watch?v=yCEIgEOZ36g
 
+# Controls
+
+- **Move Left:** `Arrow Left`
+- **Move Right:** `Arrow Right`
+- **Rotate Tetromino:** `Arrow Up` 
+- **Soft Drop:** `Arrow Down`
+- **Hard Drop:** `Space`
+- **Hold:** `H`
+- **Pause/Resume Game:** `P`
+- **Quit Game:** `Q`
+
+  
 # Features
 - Base Tetris features such as rotating, placing, and clearing tetrominoes
 - Fast dropping
